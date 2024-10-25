@@ -1,3 +1,9 @@
+virtualbox-guest-additions-iso (7.0.20-1) unstable; urgency=medium
+
+  * New upstream version 7.0.20
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 16 Jul 2024 15:00:30 +0200
+
 virtualbox-guest-additions-iso (7.0.18-1) unstable; urgency=medium
 
   * New upstream version 7.0.18
