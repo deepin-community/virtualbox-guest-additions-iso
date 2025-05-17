@@ -1,3 +1,27 @@
+virtualbox-guest-additions-iso (7.1.8-1) unstable; urgency=medium
+
+  * Make watch file use https mode
+  * Merge with sid new upload
+  * New upstream version 7.1.8
+  * New upstream version 7.1.0
+  * Also conflict on virtualbox-7.1
+  * Bump std-version to 4.7.0
+  * Bump copyright years
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 16 May 2025 17:48:28 +0200
+
+virtualbox-guest-additions-iso (7.0.26-1) unstable; urgency=medium
+
+  * New upstream release 7.0.26 (Closes: #1104024).
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Wed, 14 May 2025 14:10:29 +0200
+
+virtualbox-guest-additions-iso (7.0.20-1) unstable; urgency=medium
+
+  * New upstream version 7.0.20
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Tue, 16 Jul 2024 15:00:30 +0200
+
 virtualbox-guest-additions-iso (7.0.18-1) unstable; urgency=medium
 
   * New upstream version 7.0.18
