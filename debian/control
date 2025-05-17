@@ -5,7 +5,7 @@ Maintainer: Debian Virtualbox Team <team+debian-virtualbox@tracker.debian.org>
 Uploaders: Ritesh Raj Sarraf <rrs@debian.org>,
            Gianfranco Costamagna <locutusofborg@debian.org>
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.7.0
+Standards-Version: 4.7.2
 Rules-Requires-Root: no
 Homepage: https://www.virtualbox.org
 Vcs-Browser: https://salsa.debian.org/pkg-virtualbox-team/virtualbox-guest-additions-iso
@@ -31,6 +31,7 @@ Conflicts: virtualbox-2.0,
            virtualbox-5.2,
            virtualbox-6.0,
            virtualbox-7.0,
+           virtualbox-7.1,
 Description: guest additions iso image for VirtualBox
  VirtualBox is a free x86 virtualization solution allowing a wide range of
  x86 operating systems such as Windows, DOS, BSD or Linux to run on a
